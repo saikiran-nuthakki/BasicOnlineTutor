@@ -1,9 +1,6 @@
 /*
 Author: Saikiran Nuthakki
 E-mail: sqn5261@psu.edu
-Course: CMPSC 221
-Assignment: Programming Assignment 4
-Due date: 4/4/2019
 File: Onlinetutor.java
 Purpose: Java application that implements an online tutoring window
 Compiler/IDE: IntelliJ IDEA
