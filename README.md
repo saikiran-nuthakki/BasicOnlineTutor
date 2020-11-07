@@ -1,2 +1,2 @@
-# BasicOnlineTutor
-Basic Java project to generate random math questions, and provide feedback.
+# Math Problems
+Java program to generate random math questions, and provide feedback.
